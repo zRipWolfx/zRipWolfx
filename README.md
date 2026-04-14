@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png" width = 50px></picture> **Cambiar link**
+## <picture><img src = "https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png" width = 500px></picture> 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
