@@ -21,7 +21,7 @@
 <br><br>
 
 <picture> <img align="right" src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/pngwing.com.png" width = 150px></picture>
-
+<br>
 - Desarrollador front-end autodidacta y apasionado
 - Juego CTF en mi tiempo libre
 - Actualmente aprendo desarrollo web por mi cuenta
