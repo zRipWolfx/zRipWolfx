@@ -80,7 +80,7 @@
 <br>
 
 
-## <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/im3.png" width="35"><b> Github Stats </b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlnMmx0MWppajlldWdlZGZvYnJsd2gzcmxobzcwc2ZrZGNyNnQ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ulen7Go69aeakiCpcX/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
