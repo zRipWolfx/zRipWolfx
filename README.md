@@ -85,9 +85,10 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/zRipWolfx/">
+  <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png" width="450"/>
 </a>
+<br>
 <a href="https://github.com/zRipWolfx/">
   <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/im3.png" width="375"  alt="zRipWolfx"/>
 </a>
