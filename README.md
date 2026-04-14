@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br><br>
 
-<picture> <img align="right" src="[https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/Multi%20(4).png](https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/pngwing.com.png)" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/pngwing.com.png" width = 250px></picture>
 
 - Desarrollador front-end autodidacta y apasionado
 - Juego CTF en mi tiempo libre
