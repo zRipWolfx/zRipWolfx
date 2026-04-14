@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Cambiar link**
+## <picture><img src = "https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png" width = 50px></picture> **Cambiar link**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -85,10 +85,6 @@
 
 <div align="center">
 
-<a href="https://github.com/zRipWolfx/">
-  <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png" width="450"/>
-</a>
-<br>
 <a href="https://github.com/zRipWolfx/">
   <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/im3.png" width="375"  alt="zRipWolfx"/>
 </a>
