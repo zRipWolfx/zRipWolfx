@@ -11,7 +11,9 @@
 
 
 	
-## <picture><img src = "https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png" width = 500px></picture> 
+<p align="center">
+  <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/SOFTWARE.png?raw=true" width="500px">
+</p>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
