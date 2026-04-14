@@ -88,7 +88,7 @@
 <div align="center">
 
 <a href="https://github.com/zRipWolfx/">
-  <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/im3.png" width="375"  alt="zRipWolfx"/>
+  <img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/im3.png" width="700"  alt="zRipWolfx"/>
 </a>
 
 </div>
