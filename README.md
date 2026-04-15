@@ -121,7 +121,7 @@
 
 <li>
 <a href="https://www.instagram.com/rip.wolfx/" target="_blank">
-<img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/ig.jpg alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/ig.jpg" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
