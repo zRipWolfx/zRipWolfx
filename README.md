@@ -143,3 +143,4 @@
 <br>
 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MTA Software?cardType=github&theme=nightowl&fontFamily=Aleo&preferLogin=true&Points.ContributedTo=1.5&Text=9D65FF&Title=FFFFFF&Border=AF28FF)](https://git.io/awesome-stats-card)
