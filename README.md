@@ -20,6 +20,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&fontFamily=Aleo&preferLogin=true&Points.ContributedTo=1.5&Text=9D65FF&Title=FFFFFF&Border=AF28FF">    <img  alt="MTA Software's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MTA Software?cardType=github&theme=nightowl&fontFamily=Aleo&preferLogin=true&Points.ContributedTo=1.5&Text=9D65FF&Title=FFFFFF&Border=AF28FF" />  </a>
+
 <picture> <img align="right" src="https://github.com/zRipWolfx/Facturas-Cajusol/blob/main/pngwing.com.png" width = 150px></picture>
 
 - Desarrollador front-end autodidacta y apasionado
@@ -143,4 +145,3 @@
 <br>
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&fontFamily=Aleo&preferLogin=true&Points.ContributedTo=1.5&Text=9D65FF&Title=FFFFFF&Border=AF28FF">    <img  alt="MTA Software's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MTA Software?cardType=github&theme=nightowl&fontFamily=Aleo&preferLogin=true&Points.ContributedTo=1.5&Text=9D65FF&Title=FFFFFF&Border=AF28FF" />  </a>
